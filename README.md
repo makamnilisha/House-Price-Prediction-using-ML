@@ -17,5 +17,5 @@ The new ensemble model, which is an amalgamation of XGBoost and ANN, was the cho
 # Future Scope
 The Future scope of this project is to build a user interface and also try to implement different neural networks and experiment.
 
-Technologies Implemented : *Web scraping using requests and beautiful soup, Jira, Python - Pandas, Numpy, scikitlearn, matflotlib, tensorflow, Dimesion reduction using PCA.*
+Technologies Implemented : *Web scraping using requests and beautiful soup, Jira, Python - Pandas, Numpy, scikitlearn, matflotlib, tensorflow, Dimesion reduction using PCA, EDA using Tableau*
 
