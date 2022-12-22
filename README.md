@@ -19,3 +19,6 @@ The Future scope of this project is to build a user interface and also try to im
 
 Technologies Implemented : *Web scraping using requests and beautiful soup, Jira, Python - Pandas, Numpy, scikitlearn, matflotlib, tensorflow, Dimesion reduction using PCA, EDA using Tableau*
 
+Project was performed using crisp-dm process. Also used Gantt and PERT chart for effort estimation
+
+![image](https://user-images.githubusercontent.com/38915458/209068805-f4005173-ab2f-4f09-acc4-ef400b4ac6a3.png)
